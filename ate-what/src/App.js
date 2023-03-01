@@ -1,15 +1,10 @@
 import './App.css';
+import Nav from './components/nav';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-        Ate What?
-        </p>
-          
-        
-      </header>
+      <Nav></Nav>
     </div>
   );
 }

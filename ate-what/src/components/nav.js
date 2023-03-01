@@ -1,9 +1,9 @@
-import './App.css'
+
 
 function Nav() {
   return(
-    <div>
-        
+    <div class='ate'>
+        <h1>Ate What?</h1>
     </div>
   );
 
